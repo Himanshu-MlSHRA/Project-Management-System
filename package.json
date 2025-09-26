@@ -1,0 +1,15 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "A project management system for begineers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Himanshu Mishra",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
